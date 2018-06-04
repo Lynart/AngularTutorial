@@ -1,3 +1,6 @@
+# Notes
+OneNote -> Software Development -> Angular
+
 # NgTutorial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
